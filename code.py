@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding:utf-8 -*-
 from urllib import quote, unquote
-//解决API中url传参中文乱码问题
+#解决API中url传参中文乱码问题
 def test():
     a="你好"
     b="测试"
