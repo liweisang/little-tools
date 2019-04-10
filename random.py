@@ -15,6 +15,4 @@ def test():
         sign = zifu()
         print sign
 
-
-    print "11111111111",sign
 test()
